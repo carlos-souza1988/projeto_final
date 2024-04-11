@@ -37,7 +37,7 @@ Dar exemplos
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 # 🛠️ Construído com
-https://code.visualstudio.com/     -> Visual Studio Code
+https://code.visualstudio.com/     -> Visual Studio Code /b
 https://www.python.org/downloads/  -> Python 3
 https://pokeapi.co/                -> Api Pokemon
 
