@@ -22,8 +22,8 @@ Necessário instalar as seguintes bibliotecas:
 * tqdm 
 Para instalar as bibliotecas, fazemos da seguinte forma: Exemplo: pip install pandas
 
-Criando a virtualen:
-pip install virtualenv
+Criando a virtualen:                         
+pip install virtualenv                            
 python -m venv nome_do_ambiente
 
 
