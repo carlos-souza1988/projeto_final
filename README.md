@@ -254,8 +254,7 @@ Em resumo, essas funções permitem interagir com um banco de dados SQLite, cons
 Em resumo, essa função organiza os dados das espécies de pokémons, garantindo que estejam no formato correto para análise posterior.
 
 ## 📦 Implantação
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
+Objetivo do projeto foi extrair as informações e buscar a base de pokemons da api, com suas habilidades e suas bases especiais.
 ## 🛠️ Construído com
 * https://code.visualstudio.com/ -> Visual Studio Code
 * https://www.python.org/downloads/ -> Python 3
