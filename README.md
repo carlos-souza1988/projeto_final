@@ -8,18 +8,18 @@ Consulte Implantação para saber como implantar o projeto.
 ## 📋 Pré-requisitos
 Programas neceessários:
 
-Visual Studio Code
-Python 3
+* Visual Studio Code
+* Python 3
 
 ## 🔧 Instalação
 Necessário instalar as seguintes bibliotecas:
 
-pandas
-numpy
-sqlite3
-plyer
-requests
-tqdm 
+* pandas
+* numpy
+* sqlite3
+* plyer
+* requests
+* tqdm 
 Para instalar as bibliotecas, fazemos da seguinte forma: Exemplo: pip install pandas
 
 ## ⚙️ Executando os testes
@@ -257,9 +257,9 @@ Em resumo, essa função organiza os dados das espécies de pokémons, garantind
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
-https://code.visualstudio.com/ -> Visual Studio Code
-https://www.python.org/downloads/ -> Python 3
-https://pokeapi.co/ -> Api Pokemon
+* https://code.visualstudio.com/ -> Visual Studio Code
+* https://www.python.org/downloads/ -> Python 3
+* https://pokeapi.co/ -> Api Pokemon
 
 ## 📌 Versão
 Nós usamos o arquivo requirements.txt do repositório para controle de versão.
